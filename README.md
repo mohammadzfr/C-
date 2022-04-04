@@ -1,4 +1,4 @@
-# C++
+# Adventure RPG
 
 You can upload your own files by renaming the game_name file in main.cpp and uploading the three files:
   - [game_name]_items.txt
