@@ -8,6 +8,8 @@ using namespace std;
 int main() {
   bool isMainLoop = true;
   string input;
+  
+  // change game_name to whichever files you have uploaded
   string game_name = "jungle";
   char single_input;
   int point_total = 0;
