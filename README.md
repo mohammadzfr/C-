@@ -1,6 +1,6 @@
 # Adventure RPG
 
-You can upload your own files by renaming the game_name file in main.cpp and uploading the three files:
+You can upload your own files by renaming the game_name file in main.cpp and uploading the files in the following format:
   - [game_name]_items.txt
   - [game_name]_text.txt
   - [game_name]_nodes.txt
